@@ -1,0 +1,8 @@
+Description:
+    http://analytics-ja.blogspot.com/2010/02/expanded-mobile-reporting.html
+
+Example:
+    ./script/generate jagamo
+
+    This will create:
+        Metal: app/metal/google_analytics.rb
